@@ -1,0 +1,6 @@
+owner=589013364584480788
+prefix=!
+game=By Nariko | !play
+stayinchannel=true
+songinstatus=false
+token=NjA4MzYyMDc1MDcyNDk1NjI2.XUnDeg.doml_qea9wL6f9E2i6EGr0yDIFM
